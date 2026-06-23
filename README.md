@@ -77,7 +77,7 @@ ii-win-merge とほぼ同等の機能で WinMerge なしで動作するツール
 ii-diff のフリー版で ファイル指定で比較・差分抽出するツールです
 
 
-### PDF ファイルの１枚１枚を画像化してエクセルに貼り付けるツール（ ii-pdf-paste2xlsx ）
+### PDF を画像化・エクセル貼り付けツール（ ii-pdf-paste2xlsx ）
 
 #### [ii-pdf-paste2xlsx](https://github.com/yaonasu/ii-pdf-paste2xlsx)
 
